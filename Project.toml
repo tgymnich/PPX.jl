@@ -1,0 +1,8 @@
+name = "PPX"
+uuid = "915203ed-8a1b-4849-8a08-f26b6827e32f"
+authors = ["Tim Gymnich <tgymnich@icloud.com>"]
+version = "0.1.0"
+
+[deps]
+FlatBuffers = "53afe959-3a16-52fa-a8da-cf864710bae9"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
